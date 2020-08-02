@@ -1,6 +1,6 @@
 ## Intro To STEMBot
 
-- [Day_1](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/Day_1/Introduction_to_STEMBot.md)
+- [Unit 1](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/Day_1/Introduction_to_STEMBot.md)
     -  Intro to STEMBot- Running the Maze
 - [Day_2](https://github.com/BotDevLLC/BotDevCurriculum/blob/master/Curriculum/Week_1/Day_2/Robotics.md)
     - Intro to Robotics- The Real-World Leap… Software Perfection to Hardware Realities
