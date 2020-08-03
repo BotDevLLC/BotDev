@@ -40,7 +40,7 @@ Objective(s):      To introduce student to the concepts and challenges of ro
   A robot is a machine capable of carrying out a complex series of actions automatically by being programmed in advance. A microwave can turn on a cavity magnetron at a certain power level (and only when the door is closed), while simultaneously rotating a food platter at a specified rate. Is a microwave a robot? How complex do a series of activities need to be in order for a machine to be considered a robot? Ask student to consider what activities may be simple to a human, but complex to a robot. Perhaps walking? Detecting objects? Lead students to begin thinking about the challenges robot designers must tackle.
 
 # Body:
- After leading the students in a brief discussion about the challenges robot designers face. Start the accompanying PowerPoint Presentation Robotics, The Real-World Leap: Software perfection to hardware realities. Using the script in the notes section of the presentation to guide you through the presentation.
+ After leading the students in a brief discussion about the challenges robot designers face. Start the accompanying PowerPoint Presentation Robotics, The Real-World Leap: Software perfection to hardware realities (link below). Dowload the presentation from the google drive to use the script in the notes section of the presentation to guide you through the presentation delivery.
 
 # MATERIALS AND RESOURCES
 * Computer(s)
