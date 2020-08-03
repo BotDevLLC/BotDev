@@ -9,7 +9,7 @@ Topic or Unit: Introduction to STEMBot
 
  
 
-Grade/Level: 8th Grade 
+Grade/Level: 5th-12th 
 
  
 
@@ -17,44 +17,35 @@ Time Allotment: 30 minutes
 
  
 
-Standards:           3.4.5. A3. Describe how technologies are often combined.  
+Standards:           
+  3.4.5. A3. Describe how technologies are often combined.  
 
   3.4.6. A3. Explain how knowledge from other fields of study (STEM) integrate to create new technologies.   
 
-  3.4.6. D2. Use computers appropriately to access and organize and apply information 
+  3.4.7. B3. Describe how invention and innovation lead to changes in society and the creation of new needs and wants.  
+
+  3.4.8.C1. Evaluate the criteria and constraints of a design.
+
 
  
 
-Unit Goal(s):      By the end of the unit, students will have a basic understanding of how STEMBot works.  
+Unit Goal(s):      By the end of the unit, students will understand robotics and application of robots.  
 
  
 
-Objective(s):      Students should measure the path and write function calls to make the STEMBot travel the through the maze ending in the destination box 
+Objective(s):      To introduce student to the concepts and challenges of robotics.
+
 # INSTRUCTIONAL PROCEDURES 
-  # What is STEMBot? 
-  STEMBot is a robot designed for learning. STEMBot is an open source project with full curriculum and educational resources. Nothing about the STEMBot is simple, but it is all easy to learn. Let’s get started! 
+  # Anticipatory Set: What is STEMBot? 
+  A robot is a machine capable of carrying out a complex series of actions automatically by being programmed in advance. A microwave can turn on a cavity magnetron at a certain power level (and only when the door is closed), while simultaneously rotating a food platter at a specified rate. Is a microwave a robot? How complex do a series of activities need to be in order for a machine to be considered a robot? Ask student to consider what activities may be simple to a human, but complex to a robot. Perhaps walking? Detecting objects? Lead students to begin thinking about the challenges robot designers must tackle.
 
-
-1. Use masking tape to create a simple maze on the floor with a starting box and a destination box. Ensure to make several 90 degree turns. 
-
-2. Point out the parts of the STEMBot to students.  It has a Raspberry Pi (RPi) for a microcontroller/microcomputer.  The RPi is the brain of the STEMBot, it runs the programs and sends commands to the other components.  The STEMBot has two stepper motors that are controlled individually to make the STEMBot move.  These stepper motors rely on two motor drivers make them rotate.  The RPi has GPIO (General Purpose Input/Output) pins that it uses to talk to the motor drivers.  When we run a program the RPi will use these pins to sends commands to the motor drivers that will then send electrical current to motors to make them rotate. 
-
-3. The motor drivers use integrated circuits to switch the electrical current to different coils in the motor to make it rotate.  This falls into the electrical engineering field, while the program to control the STEMBot can be considered to be part of the Software Engineering field.  The physical design of the STEMBot falls into the Mechanical Engineering field.  And lots of math is required.  A programmer must calculate the circumference of the wheels to determine how to make the STEMBot move forward a designated distance or turn a specified number of degrees.  (Review the code in the “FirstRun.py” program for more details).  Discuss these various STEM fields with students.  
-
-4. Instructor will then open VNC into the raspberry pi and open the “FirstRun.py” program on the Desktop. Describe the functions programmed at the bottom (move, turn, etc). 
-
-    a. See Week 1 Day 3 unit: “Communicating with STEMBot” for VNC guidance. 
-
-    b. See Week 1 Day 4 unit: “Basic CLI Commands and Running Python Code from Terminal” for guidance in running Python programs.  
-
-5. Provide the student with tape measures or yard sticks.  Students will measure the path and write function calls in python program to make the STEMBot travel the through the maze ending in the destination box. 
+# Body:
+ After leading the students in a brief discussion about the challenges robot designers face. Start the accompanying PowerPoint Presentation Robotics, The Real-World Leap: Software perfection to hardware realities. Using the script in the notes section of the presentation to guide you through the presentation.
 
 # MATERIALS AND RESOURCES
-* STEMBot(s) 
-* Computer(s) 
-* Internet (Optional if the STEMBot has its own router) 
-* Measuring Tape 
-* Masking Tape 
+* Computer(s)
+* Projector 
+*  <a href="https://drive.google.com/file/d/1Alfz3JQCQ-ZJJGvTPfC8Nimr1jZx6wK6/view?usp=sharing" target="_blank">Robotics, The Real-World Leap: From software perfection to hardware realities</a>
 
  
 
