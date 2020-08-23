@@ -32,7 +32,7 @@ Assessment(s):
 
 # INSTRUCTIONAL PROCEDURES 
   ## A.	Anticipatory Set: 
-  The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV and uses a standard keyboard and mouse. We can use a Virtual Network Computing (VNC) connection to connect to the Raspberry Pi, so that the Raspberry Pi does not need a monitor or keyboard. If a computer doesn’t have its own monitor, and input devices (such as a keyboard) we call it a “headless client.”  Using a VNC to turn another computer into the monitor and keyboard of the Raspberry Pi, we will use it as a headless client. Remeber, that IP addresses can change and you may need to repeat this step every time you connect if you don't assign a static IP address to your Raspberry Pi. An alternative is to purchase an OLED disaply that (like Adfruit's OLED display: https://www.adafruit.com/product/3527) will display the Raspberry Pi's IP address every time you turn it on. A last option is to use a network scanning app like fing on your cell phone to find your Raspberry Pi and its IP address (see below).
+  The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV and uses a standard keyboard and mouse. We can use a Virtual Network Computing (VNC) connection to connect to the Raspberry Pi, so that the Raspberry Pi does not need a monitor or keyboard. If a computer doesn’t have its own monitor, and input devices (such as a keyboard) we call it a “headless client.”  Using a VNC to turn another computer into the monitor and keyboard of the Raspberry Pi, we will use it as a headless client. Remeber, that IP addresses can change and you may need to repeat this step every time you connect if you don't assign a static IP address to your Raspberry Pi. An alternative is to purchase an OLED disaply (like Adfruit's OLED display: https://www.adafruit.com/product/3527) that will display the Raspberry Pi's IP address every time you turn it on. A last option is to use a network scanning app like fing on your cell phone to find your Raspberry Pi and its IP address (see below).
   
   ## B. Body: 
 This period of instruction is designed around a live demonstration. You may download the pdf file at the bottom to refer to during your demonstration. Before beginning both the Raspberry Pi and your host computer must be on the same internet connection!
@@ -53,7 +53,7 @@ This period of instruction is designed around a live demonstration. You may down
 <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%204.png width="980">
 
 
-5.	Download Real VNC Viewer from your browser by clicking download VNC Viewer and run the executable file
+5.	On the computer you will use to connect to your Raspberry Pi download Real VNC Viewer from your browser (https://www.realvnc.com/en/connect/download/viewer/) by clicking download VNC Viewer for Raspberry Pi and run the executable file
 
 <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%205.png>
 
@@ -61,7 +61,7 @@ This period of instruction is designed around a live demonstration. You may down
 
 <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%206.png>
 
-7.	Enter the IP Address of the Raspberry Pi in the VNC Viewer at the top bar to connect to it. You will be prompted to enter a username and password.
+7.	Enter the IP Address of the Raspberry Pi in the VNC Viewer at the top bar to connect to it. You will be prompted to enter a username and password. Raspberry Pi default username and password are:
 
 Username: pi
 Password: raspberry
@@ -69,7 +69,7 @@ Password: raspberry
 <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%207.png>
 
 
-8.	An alternative to using ifconfig to get its IP address -which requires a monitor and keyboard-, is to use the Smart Phone App “ Fing” that can be downloaded on the App store and Play store.  Simply connect your phone to the same Wi-Fi, open the app and scan the network.  Then look for your Raspberry Pi’s name and the IP address will be next to it.
+8.	An alternative to using ifconfig to get its IP address -which requires a monitor and keyboard-, is to use the Smart Phone network scanning App like “Fing” that can be downloaded on the App store and Play store.  Simply connect your phone to the same Wi-Fi, open the app and scan the network.  Then look for your Raspberry Pi’s name and the IP address will be next to it.
 
 <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%208.png>
 
