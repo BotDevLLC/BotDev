@@ -32,10 +32,10 @@ Assessment(s):
 
 # INSTRUCTIONAL PROCEDURES 
   ## A.	Anticipatory Set: 
-  The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV and uses a standard keyboard and mouse. We can use a Virtual Network Computing (VNC) connection to connect to the Raspberry Pi, so that the Raspberry Pi does not need a monitor or keyboard. If a computer doesn’t have its own monitor, and input devices (such as a keyboard) we call it a “headless client.”  Using a VNC to turn another computer into the monitor and keyboard of the Raspberry Pi, we will use it as a headless client.
+  The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV and uses a standard keyboard and mouse. We can use a Virtual Network Computing (VNC) connection to connect to the Raspberry Pi, so that the Raspberry Pi does not need a monitor or keyboard. If a computer doesn’t have its own monitor, and input devices (such as a keyboard) we call it a “headless client.”  Using a VNC to turn another computer into the monitor and keyboard of the Raspberry Pi, we will use it as a headless client. Remeber, that IP addresses can change and you may need to repeat this step every time you connect if you don't assign a static IP address to your Raspberry Pi. An alternative is to purchase an OLED disaply that (like Adfruit's OLED display: https://www.adafruit.com/product/3527) will display the Raspberry Pi's IP address every time you turn it on. A last option is to use a network scanning app like fing on your cell phone to find your Raspberry Pi and its IP address (see below).
   
   ## B. Body: 
-Before beginning both the Raspberry Pi and your host computer must be on the same internet connection!
+This period of instruction is designed around a live demonstration. You may download the pdf file at the bottom to refer to during your demonstration. Before beginning both the Raspberry Pi and your host computer must be on the same internet connection!
 1.	Plug in Raspberry Pi to monitor, keyboard and a mouse. Open the terminal by choosing Menu > Accessories > Terminal)
 
 <img src=https://raw.githubusercontent.com/BotDevLLC/BotDevCurriculum/master/Pictures/pic%201.png>
