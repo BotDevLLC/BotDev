@@ -81,7 +81,7 @@ Password: raspberry
 * STEMBot(Raspberry Pi)
 * Monitor
 * Keyboard and mouse
-*<a href="https://drive.google.com/file/d/1ZucWqtv_8VQikrDmNA8B40afHh6HRREO/view?usp=sharing" target="_blank">Communicating with STEMBot</a>
+* <a href="https://drive.google.com/file/d/1ZucWqtv_8VQikrDmNA8B40afHh6HRREO/view?usp=sharing" target="_blank">Communicating with STEMBot</a>
 
 
 
